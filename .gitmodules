@@ -1,0 +1,6 @@
+[submodule "bbb"]
+	path = bbb
+	url = git@github.com:eyesight-pgs/bbb.git
+[submodule "ccc"]
+	path = ccc
+	url = git@github.com:eyesight-pgs/ccc.git
